@@ -36,5 +36,5 @@ multimap.add_field("right") # Add another grid-field to the right
 multimap.grid[1].add_staticmap(server.staticmap(...))) # create a staticmap in the 2nd field
 multimap.grid[1].maps[0].add_marker(...) # add a marker to that staticmap
 
-print(multimap.get_url()) # get_url(), get_image(), get_dict() ar the same for multistaticmaps and staticmaps
+print(multimap.get_url()) # get_url(), get_image(), get_dict() are the same for multistaticmaps and staticmaps
 ```
