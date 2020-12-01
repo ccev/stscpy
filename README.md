@@ -1,6 +1,6 @@
 # stscpy (SwiftTileServerCachePY)
 
-Very baic wrapper for Flo's tileserver (https://github.com/123FLO321/SwiftTileserverCache/).
+Very basic wrapper for Flo's tileserver (https://github.com/123FLO321/SwiftTileserverCache/).
 
 #### `pip install stscpy`
 
